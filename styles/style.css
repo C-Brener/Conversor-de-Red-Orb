@@ -1,0 +1,18 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body{
+    background-image: url(../image/6241817aece5d5134bf36760e69373c6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.content{
+    text-align: center;
+}
+.content > h1, p{
+    color: #9bc848;
+    font-family: 'Courier New', Courier, monospace;
+}

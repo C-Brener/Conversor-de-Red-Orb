@@ -4,8 +4,9 @@ html, body{
     height: 100%;
 }
 body{
-    background-image: url(../image/6241817aece5d5134bf36760e69373c6.jpg);
-    background-size: cover;
+    background-image: url(../image/DMC-5-final-borthers-4K-Wallpaper.jpg);
+    background-size: 200vh;
+    background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
 }
@@ -13,6 +14,14 @@ body{
     text-align: center;
 }
 .content > h1, p{
-    color: #9bc848;
+    color: black;
+    font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px white;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
 }
